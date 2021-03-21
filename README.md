@@ -1,4 +1,4 @@
-## Hi there, I'm Pritesh aka [SpacePatrolDev][https://spacepatroldev.com/] 👋
+## Hi there, I'm Pritesh aka [SpacePatrolDev][website] 👋
 
 ### I'm a Software Engineer, Coder, Photographer, Astronomer, Gamer!
 
@@ -33,3 +33,5 @@
   [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
+
+[website]: https://spacepatroldev.com
