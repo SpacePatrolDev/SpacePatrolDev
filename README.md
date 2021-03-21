@@ -2,7 +2,7 @@
 
 ### I'm a Software Engineer, Coder, Photographer, Astronomer, Gamer!
 
-- 🌱 I’m currently learning everything 💻
+- 🌱 I’m currently learning React & Node 💻
 - 💞️ I’m looking to collaborate with business minded people
 - 🗺 I love to explore new places
 - 🎯 2021 Goal: Contribute more to open source projects and learn new technologies
