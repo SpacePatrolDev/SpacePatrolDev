@@ -30,7 +30,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  [![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contrib,pr)]
+  ![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contribs,prs)
 
 </details>
 
