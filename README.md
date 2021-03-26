@@ -63,7 +63,7 @@
 
 <details>
   <summary>Most Used Languages ⚡</summary>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacepatroldev&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacepatroldev">
 </details>
 
 [website]: https://spacepatroldev.com
