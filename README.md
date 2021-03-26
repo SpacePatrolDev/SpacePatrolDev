@@ -50,12 +50,20 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
-<br>
 
 #### Github Profile Visits 👤 :
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=spacepatroldev.spacepatroldev)
 
-#### Github Stats ⚡ :
-![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contribs,prs&show_icons=true&theme=flag-india)
+<details>
+  <summary>Github Stats ⚡</summary>
+<img src="https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contribs,prs&show_icons=true&theme=flag-india">
+</details>
+
+<br>
+
+<details>
+  <summary>Most Used Languages ⚡</summary>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spacepatroldev">
+</details>
 
 [website]: https://spacepatroldev.com
