@@ -1,8 +1,8 @@
-## Hi there, I'm Pritesh aka [SpacePatrolDev][website] 👋
+## Hi there, I'm Pritesh aka [SpacePatrolDev][website] <img width="30px" src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif">
 
 ### I'm a Software Engineer, Coder, Photographer, Astronomer, Gamer!
 
-- 🌱 I’m currently learning React & Node 💻
+- 🌱 I’m currently learning Web Development Bootcamp 2021 💻
 - 💞️ I’m looking to collaborate with business minded people
 - 🗺 I love to explore new places
 - 🎯 2021 Goal: Contribute more to open source projects and learn new technologies
@@ -27,11 +27,6 @@
 <br />
 <br />
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  ![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contribs,prs&show_icons=true&theme=flag-india)
-
-</details>
+![Pritesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=spacepatroldev&hide=contribs,prs&show_icons=true&theme=flag-india)
 
 [website]: https://spacepatroldev.com
