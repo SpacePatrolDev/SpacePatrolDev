@@ -7,9 +7,13 @@
 - 🗺 I love to explore new places
 - 🎯 2021 Goal: Contribute more to open source projects and learn new technologies
 
+<hr>
+
 ### Reach out to me 📬 :
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priteshdivekar/)
 [![Mail Badge](https://img.shields.io/badge/-Gmail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:pritesh22.spd@gmail.com)
+
+<hr>
 
 ### Top Technologies 💻 :
 
@@ -51,6 +55,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 <br>
+<hr>
 
 #### Github Profile Visits 👤 :
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=spacepatroldev.spacepatroldev)
